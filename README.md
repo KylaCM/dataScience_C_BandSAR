@@ -4,7 +4,7 @@ For Dr. Anna Schweiger's Applied Remote Sensing Final Report:
 
 1. Analysis of Polarizations and spatial resolution:
    - data acquisition:
-     - code for data acquisition is found in SAR_initial
+     - code for data acquisition is found in initial
      - each combination of polarization and spatial resolution have the naming convention  'sar_processing_pp_rm.ipynb'. Because VV polarization was identified as being better at penetrating through the canopy, the files with 'vv' in the name are better developed.
    - data analysis:
      - code for data analysis of the spatial resolution to move forward with is in the python notebook 'differencing.ipynb'. The block of code for the Moran's I test is at the bottom of the notebook.
